@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="nome.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.8529742"
+     inkscape:cx="284.40763"
+     inkscape:cy="407.7229"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3375">
+      <rect
+         style="fill:#100000;fill-opacity:0.897921;stroke:none;stroke-width:3.349;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="rect3136"
+         width="15.875"
+         height="18.520834"
+         x="63.540863"
+         y="90.813461" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5503px;line-height:1.25;font-family:'Robot Médoclone';-inkscape-font-specification:'Robot Médoclone, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.588761;stroke-opacity:1"
+         x="60.189354"
+         y="117.16226"
+         id="text1574"
+         transform="scale(1.0894358,0.91790632)"><tspan
+           sodipodi:role="line"
+           id="tspan1572"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5503px;font-family:'Robot Médoclone';-inkscape-font-specification:'Robot Médoclone, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;stroke:none;stroke-width:0.588761;stroke-opacity:1"
+           x="60.189354"
+           y="117.16226">L</tspan></text>
+    </g>
+  </g>
+</svg>

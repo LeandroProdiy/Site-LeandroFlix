@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style/main.css">
+    <!--Owl css-->
+    <link rel="stylesheet" href="style/Owl/owl.carousel.min.css"><!--Link para os arquivos de criação do carrocel do site OwlCarrosel-->
+    <link rel="stylesheet" href="style/Owl/owl.theme.default.min.css"><!--Link para os arquivos de criação do carrocel do site OwlCarrosel-->
+    <link rel="stylesheet" href="style/responsive.css">
+    <style type="text/css"></style>
+    <style>
+        .filme-principal {
+            background-image:url(img/pandemia.jpg);
+            height: 400px;
+            font-size: 16px;
+            background-size: cover;
+            display: flex;
+            flex-direction: column;
+            justify-content:flex-start;
+            align-items: flex-start;
+            padding-top: 3%; 
+        }
+    </style>
+    <title>L-FLIX</title>
+</head>
+<body>
+ 
+    <header>
+        <div class="container">
+            <div class="logo">
+                <a href="#img/lflix.png"><img src="img/lflix.png" width="300" height="90"> </a>
+            </div>
+            <nav>
+                <a href="index.html">Início</a>
+                <a href="#">Filmes</a>
+                <a href="#">Documentários</a>
+                <a href="#">Séries</a>
+            </nav>
+        </div>
+  </header> 
+  
+  <main>
+       <div class="filme-principal">
+           <div class="container">
+                <h3 class="titulo">PANDEMIA</h3>
+                <p class="descricao">
+                    Depois que a civilização sucumbe a uma pandemia mortal e sua esposa é assassinada, um soldado das forças especiais abandona seu dever e se torna um eremita na selva nórdica. Anos depois, uma mulher ferida aparece em sua porta. Ela escapou de um laboratório e seus perseguidores acreditam que seu sangue é a chave para uma cura mundial. Ele hesita em se envolver, mas todas as dúvidas são deixadas de lado quando ele descobre que seu perseguidor não é outro senão o comandante Stone, o homem que assassinou sua esposa alguns anos atrás.
+                    
+                </p>
+                <div class="botoes">
+                    <button role="button" class="botao">
+                        <i class="fas fa-play-circle"></i> <!--Classe retira do site fontawesome para o icone do botão-->
+                        ASSISTIR AGORA
+                    </button>
+                        <button role="button" class="botao">
+                        <i class="fas fa-info-circle"></i>
+                        MAIS INFORMAÇÕES
+                    </button>
+                </div>
+            </div>   
+       </div>
+   </main>
+   
+   <div class="carrosel-filmes">
+        <div class="owl-carousel owl-theme">
+            <div class="item"><a href="filme1.html">
+                <img class="boxfilme" src="img/m1.jpg" alt="Homens de Terno" srcset="" ></a>
+             </div> 
+             <div class="item"><a href="filme2.html">
+                <img class="boxfilme" src="img/m2.jpg" alt=" Detencao" srcset="" ></a>
+             </div> 
+             <div class="item"><a href="filme3.html">
+                <img class="boxfilme" src="img/m3.jpg" alt=" Pandemia" srcset="" ></a>
+             </div> 
+             <div class="item"><a href="filme4.html">
+                <img class="boxfilme" src="img/m4.jpg" alt=" Vicio Frenetico" srcset="" ></a>
+             </div>
+             <div class="item"><a href="filme5.html">
+                <img class="boxfilme" src="img/m5.jpg" alt=" Dose Dupla" srcset="" ></a>
+             </div>  
+             <div class="item"><a href="filme6.html">
+                <img class="boxfilme" src="img/m6.jpg" alt=" Homem Aranha" srcset="" ></a>
+             </div> 
+             <div class="item"><a href="filme7.html">
+                <img class="boxfilme" src="img/m7.jpg" alt=" Era do Gelo" srcset="" ></a>
+             </div> 
+             <div class="item"><a href="filme8.html">
+                <img class="boxfilme" src="img/m8.jpg" alt=" Japa" srcset="" ></a>
+             </div> 
+            
+        </div>   
+    </div>
+
+   <script src="https://kit.fontawesome.com/2c36e9b7b1.js"></script><!--Site para inserir o icone dos botoes tag <i>-->
+   <Script src="Js/Owl/jquery.min.js"></Script> <!--Link para os arquivos de criação do carrocel do site OwlCarrosel-->
+   <Script src="Js/Owl/owl.carousel.min.js"></Script><!--Link para os arquivos de criação do carrocel do site OwlCarrosel-->
+   <script src="Js/Owl/setup.js"></script>
+   
+  
+</body>
+</html>
